@@ -9,8 +9,6 @@
     <color name="rounded_container_bg">#222222</color>
     <color name="rounded_container_border">#3b3f44</color>
     <color name="light_gray_header_color">#646663</color>
-    <?xml version="1.0" encoding="utf-8"?>
-    <resources>
 
         <color name="colorIndivateTab">#FFFFFF</color>
         <color name="transparent">#00000000</color>
@@ -121,7 +119,5 @@
         <color name="primary_text">#212121</color>
         <color name="icons">#FFFFFF</color>
         <color name="divider">#B6B6B6</color>
-    </resources>
-
 
 </resources>

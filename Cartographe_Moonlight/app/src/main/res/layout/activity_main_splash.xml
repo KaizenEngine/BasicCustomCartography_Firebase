@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
     android:layout_width="match_parent"
-    android:background="@drawable/ebe_main_screen"
+    android:background="@android:color/holo_green_dark"
     android:layout_height="match_parent">
 
     <LinearLayout
@@ -46,7 +46,6 @@
             android:layout_gravity="bottom|center_horizontal"
             android:text="sign in / Sign Up with Phone"
             android:textColor="@color/button_text" />
-
 
         <TextView
             android:id="@+id/firma"
